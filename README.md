@@ -14,12 +14,12 @@ Certainly! Below is a sample README.md that includes the expected behavior of ea
 This code is written to provide basic CRUD (Create, Read, Update, Delete) operations for managing a list of tanks. It allows users to retrieve, add, update, and delete tank information using a RESTful API.
 
 ## Two Truths and a Lie:
-1. I once traveled to three different continents in a single year.
-2. I have a pet cat named Whiskers.
-3. I have climbed the tallest mountain in the world.
+1. I have a girlfriend.
+2. I am smarter than tiffany.
+3. I can solve a rubiks cube.
 
 Can you guess which one is the lie?
 
 ---
 
-I hope this README example meets your requirements! Let me know if you need further assistance.
+
