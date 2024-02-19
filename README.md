@@ -1,4 +1,4 @@
-Certainly! Below is a sample README.md that includes the expected behavior of each function in the code, the reason for writing the code, and two truths and a lie.
+
 
 ---
 # Tank Management API
